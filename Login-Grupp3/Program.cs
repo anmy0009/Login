@@ -10,6 +10,8 @@
             Console.WriteLine("Ett till jävla test");
             Console.WriteLine("Jag ändrar här");
 
+            Console.WriteLine("Testar testar");
+
         }
     }
 }
